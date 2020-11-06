@@ -60,6 +60,8 @@ a:hover {
 }
 .img-circle {
 	border-radius: 50%;
+	width: 200px;
+	height: 200px;
 }
 .btn-blue {
 	background-color:#92A8D1;
